@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/5/25 16:56:28。
+     1>项目“K:\exercise\monitor\socket\socket\socket.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\专业软件\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>k:\exercise\monitor\socket\socket\源.cpp(22): warning C4309: “初始化”: 截断常量值
+       Link:
+         E:\专业软件\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"K:\exercise\monitor\socket\Debug\socket.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"K:\exercise\monitor\socket\Debug\socket.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"K:\exercise\monitor\socket\Debug\socket.lib" /MACHINE:X86 "Debug\源.obj"
+         socket.vcxproj -> K:\exercise\monitor\socket\Debug\socket.exe
+     1>已完成生成项目“K:\exercise\monitor\socket\socket\socket.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.95

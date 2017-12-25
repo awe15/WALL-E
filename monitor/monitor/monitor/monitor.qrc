@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="monitor">
+    <file>Resources/timg.jpg</file>
+  </qresource>
+</RCC>
